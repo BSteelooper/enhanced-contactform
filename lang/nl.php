@@ -30,4 +30,3 @@ $lang['enhanced_contactform']['save']      = "Instellingen opslaan";
 $lang['enhanced_contactform']['distext']   = "Voer hier je Disclaimer in";
 $lang['enhanced_contactform']['captcha']   = "Voer de verificatie code in";
 $lang['enhanced_contactform']['notvalid']  = "Verificatie code niet juist";
-?>e
